@@ -9,7 +9,6 @@ relative python packages are summerized in `requirements.txt`
 1. Flink v1.13
 2. Python 3.7
 3. Java 8
-4. Redis server v6.2.6
 
 ## DataSource
 * Dataset quick access in https://course.fast.ai/datasets#nlp
@@ -33,6 +32,7 @@ tar zxvf yelp_review_polarity_csv.tgz
 mv yelp_review_polarity_csv/train.csv train.csv
 ```
 ### 1. Install required environment of PLStream
+* please make sure Environment Requirements mentioned above is ready.
 ```
 pip install -r requirements.txt
 ```
