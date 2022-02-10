@@ -11,7 +11,7 @@ relative python packages are summerized in `requirements.txt`
 3. Java 8
 
 ## DataSource
-* Dataset quick access in https://course.fast.ai/datasets#nlp
+* Dataset quick access on https://course.fast.ai/datasets#nlp
 ### Tweets
 * 1.6 million labeled Tweets:
 * Source:[Sentiment140](http://cs.stanford.edu/people/alecmgo/trainingandtestdata.zip)
